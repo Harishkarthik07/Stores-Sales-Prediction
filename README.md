@@ -32,7 +32,7 @@ Hosted on AWS EC2 for global accessibility
 
 Clone the repository
 
-git clone https://github.com/yourusername/Stores-Sales-Prediction.git
+git clone https://github.com/Harishkarthik07/Stores-Sales-Prediction.git
 cd Stores-Sales-Prediction
 
 
